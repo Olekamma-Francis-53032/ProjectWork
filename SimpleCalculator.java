@@ -2,7 +2,8 @@
 	My First SimpleCalculator Programmed by
 	Francis Olekamma Visual ID: 53032
 	**********************************************/  
-  
+  	package pl.vistula;
+
 	public class SimpleCalculator extends Frame  
 	{  
 	  
